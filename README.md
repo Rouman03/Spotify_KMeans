@@ -39,11 +39,11 @@ The dataset used in this project contains various audio features of Spotify trac
 
 ## How to Run
 
-1. Clone the repository:
-2. Navigate to the project folder:
-3. Create a virtual environment:
-4. Install dependencies:
-5. Run the script:
+1. Clone the repository
+2. Navigate to the project folder
+3. Create a virtual environment
+4. Install dependencies
+5. Run the script
 
 ## Output
 
